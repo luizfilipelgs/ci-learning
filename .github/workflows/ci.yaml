@@ -26,3 +26,5 @@ jobs:
         with:
             push: false
             tags: luizfilipelgs/ci-learning:latest
+
+            
